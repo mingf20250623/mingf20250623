@@ -62,4 +62,4 @@ Telegram频道传送门：整合热门 Telegram 频道资源，涵盖资讯、�
 社会影响：
 
 系统梳理娱乐圈与网红界的重要爆料事件，全面呈现从爆发到发酵的全过程。时间线清晰，内容真实，是用户回顾热点舆情、理解事件走向的实用资料库。
-[Canonical link](）
+[Canonical link](https://github.com/mingf20250623/mingf20250623）
